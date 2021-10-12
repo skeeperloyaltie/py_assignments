@@ -1,0 +1,6 @@
+John 41500
+Mary 43500
+Ahmed 31000
+Tom 55300
+Peter 38600
+Samantha 36900
